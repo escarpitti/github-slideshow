@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Created June 24, 2020
+ALAS! https://i.kym-cdn.com/entries/icons/original/000/022/134/elmo.jpg
 Use the left arrow to go back!
